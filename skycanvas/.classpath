@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/S-pen SDK"/>
+	<classpathentry kind="lib" path="C:/Android/add-ons/addon-google_apis-google-17/libs/maps.jar"/>
+	<classpathentry kind="lib" path="libs/android-logging-log4j-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libs/apache-cassandra-clientutil-1.1.6.jar"/>
+	<classpathentry kind="lib" path="libs/apache-cassandra-thrift-1.1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/libspen22_multiwindow.jar"/>
+	<classpathentry kind="lib" path="libs/libspen22.jar"/>
+	<classpathentry kind="lib" path="libs/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-android-1.6.1-RC1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services_lib"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
